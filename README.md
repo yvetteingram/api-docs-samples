@@ -60,4 +60,4 @@ Hi, I’m **[Yvette Ingram]**, a technical writer and programmer passionate abou
 ---
 
 > “The clearer the documentation, the more empowered the developer.”  
-> — *Your Personal Tagline*
+
