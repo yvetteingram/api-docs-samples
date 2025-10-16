@@ -111,18 +111,19 @@ Store API keys securely (never expose client-side)
 
 ---
 
-## 👤 Author
+## 👋 Author
+Hi, I’m Yvette Ingram, a technical writer and programmer passionate about teaching, clarity, and building resources that help others learn technology.
 
-Yvette Ingram
-Technical Writer & Software Developer
-I combine writing clarity with technical depth to help developers build faster and learn smarter.
+**I specialize in:**
+- Writing API & SDK documentation  
+- Creating developer tutorials and guides  
+- Teaching coding through clear, structured content  
 
-Connect with me:
+**Connect with me:**
+- 🌐 [LinkedIn](https://www.linkedin.com/in/yvetteingram/)  
+- 🎥 [YouTube](https://www.youtube.com/@ketorah.developer4330)  
+- 💼 [Fiverr Portfolio](https://www.fiverr.com/) *(insert your Fiverr profile link once live)*  
 
-💼 LinkedIn
+---
 
-🌐 Fiverr
-
-🎥 YouTube
-
-<p align="center"> <b>“Good documentation doesn’t just explain — it empowers.”</b> </p> ```
+> “The clearer the documentation, the more empowered the developer.”  
