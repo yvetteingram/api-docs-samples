@@ -86,8 +86,10 @@ getWeather("New York", "YOUR_API_KEY");
 ---
 
 <p align="center">
+<sub>
   <b>Created by [Your Name]</b><br>
-  <a href="https://www.linkedin.com/in/drerinjacques/">LinkedIn</a> • 
+  <a href="https://www.linkedin.com/in/yvetteingram/">LinkedIn</a> • 
   <a href="https://www.fiverr.com/">Fiverr</a> • 
-  <a href="https://www.youtube.com/@Dr.ErinJacques">YouTube</a>
+  <a href="https://www.youtube.com/@ketorah.developer4330">YouTube</a>
+</sub>
 </p>
