@@ -30,7 +30,7 @@ The purpose of this sample is to demonstrate how I approach **docs-as-code** wor
 
 ## 📘 Documentation Preview
 Visit the live documentation here:  
-👉 https://yvetteingram.github.io/api-docs-samples/
+👉 https://yvetteingram.github.io/api-docs-samples
 
 
 ---
