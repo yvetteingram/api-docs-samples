@@ -40,13 +40,26 @@ curl "https://api.openweathermap.org/data/2.5/weather?q=London&appid=YOUR_API_KE
   "name": "London"
 }
 
-{
-  "coord": {"lon": -0.1257, "lat": 51.5085},
-  "weather": [{"id": 801, "main": "Clouds", "description": "few clouds"}],
-  "main": {"temp": 288.55, "feels_like": 287.04},
-  "name": "London"
-}
+---
 
+## Endpoints
+
+| Parameter   | Type   | Required | Example      | Description                         |
+| ----------- | ------ | -------- | ------------ | ----------------------------------- |
+| `q`         | string | Yes      | `London,uk`  | City name and optional country code |
+| `lat`/`lon` | float  | No       | `35`, `139`  | Coordinates                         |
+| `units`     | string | No       | `metric`     | Units of measurement                |
+| `appid`     | string | Yes      | YOUR_API_KEY | Your personal API key               |
+
+
+| Parameter | Type   | Required | Example  | Description  |
+| --------- | ------ | -------- | -------- | ------------ |
+| `q`       | string | Yes      | `Paris`  | City name    |
+| `appid`   | string | Yes      | Required | Your API key |
+
+---
+
+## Code Examples
 
 import requests
 
@@ -66,6 +79,8 @@ async function getWeather(city, key) {
   const data = await res.json();
   console.log(data);
 
+## Error Handling
+
 | Code | Meaning           | Description                   |
 | ---- | ----------------- | ----------------------------- |
 | 401  | Unauthorized      | Missing or invalid API key    |
@@ -81,8 +96,32 @@ getWeather("New York", "YOUR_API_KEY");
   "message": "Invalid API key"
 }
 
+---
 
+##💡 Best Practices
+
+Always use HTTPS for secure requests
+
+Cache frequent responses to reduce API load
+
+Use units and lang for localization
+
+Store API keys securely (never expose client-side)
 
 ---
 
+## 👤 Author
 
+Yvette Ingram
+Technical Writer & Software Developer
+I combine writing clarity with technical depth to help developers build faster and learn smarter.
+
+Connect with me:
+
+💼 LinkedIn
+
+🌐 Fiverr
+
+🎥 YouTube
+
+<p align="center"> <b>“Good documentation doesn’t just explain — it empowers.”</b> </p> ```
