@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./images/logo.png" width="180" alt="Logo"><br>
   <b>OpenWeatherMap REST API Documentation</b><br>
-  <sub>by [Your Name] — Technical Writer & Developer Educator</sub>
+  <sub>by Yvette Ingram — Technical Writer & Developer Educator</sub>
 </p>
 
 ---
