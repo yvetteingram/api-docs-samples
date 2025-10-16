@@ -159,4 +159,14 @@ Your site will go live at:
 
 ---
 
+---
+
+<p align="center">
+  <b>Created by [Your Name]</b><br>
+  <a href="https://www.linkedin.com/in/yvetteingram/">LinkedIn</a> • 
+  <a href="https://www.fiverr.com/">Fiverr</a> • 
+  <a href="https://www.youtube.com/@ketorah.developer4330">YouTube</a>
+</p>
+
+
 
