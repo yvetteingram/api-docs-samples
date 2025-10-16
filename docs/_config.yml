@@ -1,4 +1,22 @@
-theme: jekyll-theme-cayman
+# ========================================================
+#  GitHub Pages Configuration for API Docs Site
+# ========================================================
+
 title: "OpenWeatherMap API Docs"
 description: "Sample API documentation by Yvette Ingram | Demonstrating clear, developer-focused writing"
+theme: jekyll-theme-cayman
 show_downloads: false
+google_analytics: false
+
+# Optional styling overrides (Cayman supports CSS variables)
+style: |
+  :root {
+    --color-accent: #007acc;
+    --color-text: #1f2937;
+    --color-background: #f9fafb;
+    --color-border: #d1d5db;
+  }
+
+# Build Settings
+markdown: kramdown
+highlighter: rouge
