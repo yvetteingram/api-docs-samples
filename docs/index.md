@@ -120,9 +120,9 @@ Hi, I’m Yvette Ingram, a technical writer and programmer passionate about teac
 - Teaching coding through clear, structured content  
 
 **Connect with me:**
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yvetteingram/)  
-- 🎥 [YouTube](https://www.youtube.com/@ketorah.developer4330)  
-- 💼 [Fiverr Portfolio](https://www.fiverr.com/) *(insert your Fiverr profile link once live)*  
+- 🌐 [LinkedIn] <a href="https://www.linkedin.com/in/yvetteingram/>Linked In</a>
+- 🎥 [YouTube] <a href="https://www.youtube.com/@ketorah.developer4330>You Tube</a> 
+- 💼 [Fiverr Portfolio] <a href=:https://www.fiverr.com/)>Fiverr</a> *(insert your Fiverr profile link once live)*  
 
 ---
 
