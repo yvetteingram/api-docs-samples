@@ -30,9 +30,8 @@ The purpose of this sample is to demonstrate how I approach **docs-as-code** wor
 
 ## 📘 Documentation Preview
 Visit the live documentation here:  
-👉 [**https://YOUR-USERNAME.github.io/api-docs-samples/**](https://yvetteingram.github.io/api-docs-samples/)
+👉 [**https://yvetteingram.github.io/api-docs-samples/**](https://yvetteingram.github.io/api-docs-samples/)
 
-(Replace `YOUR-USERNAME` with your GitHub handle.)
 
 ---
 
@@ -45,7 +44,7 @@ Visit the live documentation here:
 ---
 
 ## 👋 About the Author
-Hi, I’m **[Yvette Ingram]**, a technical writer and programmer passionate about teaching, clarity, and building resources that help others learn technology.
+Hi, I’m Yvette Ingram, a technical writer and programmer passionate about teaching, clarity, and building resources that help others learn technology.
 
 **I specialize in:**
 - Writing API & SDK documentation  
