@@ -8,6 +8,15 @@ This example demonstrates:
 - How to combine code samples and best practices into one cohesive guide  
 
 ---
+## 📚 Table of Contents
+- [Overview](#-overview)
+- [Quick Start Example](#-quick-start-example)
+- [Endpoints](#-endpoints)
+- [Code Examples](#-code-examples)
+- [Error Handling](#-error-handling)
+- [Best Practices](#-best-practices)
+- [Author](#-author)
+
 
 ## 🚀 Overview
 The **OpenWeatherMap API** provides current and forecasted weather data for cities across the world.  
