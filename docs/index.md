@@ -27,6 +27,7 @@ It’s ideal for developers who need weather information for apps, dashboards, o
 **Authentication:**  
 All endpoints require an API key (`appid`) parameter.
 
+**Base URL:**  https://api.openweathermap.org/data/2.5/
 ---
 
 ## ⚡ Quick Start Example
